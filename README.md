@@ -1,3 +1,3 @@
 #Demo
 
-My first file in Git.
+My first file in Git! Lets rock it :)
